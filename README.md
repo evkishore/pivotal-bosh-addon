@@ -34,4 +34,3 @@ More information about addons can be found [here](https://bosh.io/docs/runtime-c
 
 A sample runtime config snippet is [here](./runtime.yml.example).
 
-https://github.com/pivotalservices/simple-addon-release#resources
