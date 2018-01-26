@@ -33,3 +33,5 @@ To create an archivable release
 More information about addons can be found [here](https://bosh.io/docs/runtime-config.html#addons).
 
 A sample runtime config snippet is [here](./runtime.yml.example).
+
+https://github.com/pivotalservices/simple-addon-release#resources
